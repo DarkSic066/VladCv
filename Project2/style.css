@@ -1,0 +1,168 @@
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    text-align: center;
+}
+
+
+header {
+    height: 69px;
+    border-bottom: 1px solid seashell;
+    margin-top: 0px;
+
+}
+
+
+
+.navig {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0px;
+    align-items: center;
+    height: 69px;
+}
+
+.navig h1 {
+    height: 40px;
+    align-content: center;
+    padding-bottom: 0px;
+}
+
+.text {
+    
+    display: inline-flex;
+    width: 350px;
+    justify-content: space-between;
+}
+
+.text li {
+    list-style: none;
+    text-decoration: none;
+}
+
+.text li a {
+    text-decoration: none;
+    color: seashell;
+}
+
+
+.text li a:hover {
+    color: aqua;
+}
+
+
+
+.mission { 
+    height: 700px;
+    width: 1200px;   
+    margin: 0px 20px;
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg?_gl=1*1ehe6j*_ga*MTIwMDQxODA3Ny4xNjQ5MDY5MTc1*_ga_3LRZM6TM9L*MTY1OTYzOTEwMS45Ni4xLjE2NTk2MzkxMDcuNTQ.); 
+    display: flex;
+    align-items: center;
+}
+
+
+.first-section {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.textm {
+    background-color: black;
+    text-align: center;
+    width: 1200px;  
+}
+
+.teas {
+    width: 1000px;
+    
+    display: inline-block;
+    margin: 50px 0px;
+    
+}
+
+.teas h2, h4 {
+    text-align: center;
+}
+
+.teas figure {
+    margin: 0px 0px;
+    display: inline-flex;
+    flex-flow: row wrap;
+   justify-content: center;
+   column-gap: 47px;
+   row-gap: 20px;
+}
+
+.teas figure img {
+    height: 200px;
+    width: 300px;   
+}
+
+.teas figure figcaption {
+    margin-top: 10px;
+}
+
+
+.location {
+    height: 500px;
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg?_gl=1*6s7f78*_ga*MTIwMDQxODA3Ny4xNjQ5MDY5MTc1*_ga_3LRZM6TM9L*MTY1OTYzOTEwMS45Ni4xLjE2NTk2MzkxMDcuNTQ.);    
+    margin: 0px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.location h2 {
+    margin-bottom: 15px;
+    margin-top: 50px;
+}
+
+.locas {
+    display: flex;
+    flex-flow: row wrap;
+    column-gap: 40px;
+    justify-content: center;
+    
+}
+
+
+.locas div li {
+    list-style: none;
+    line-height: 60px;
+}
+
+.locas div ul {
+    padding-left: 0px;
+}
+.locas div {
+    
+    width: 300px;
+    background-color: black;
+    opacity: 1;
+}
+
+
+.end {
+ height: 200px;
+}
+
+p {
+    text-align: left;
+    margin-left: 20px;
+}
+
