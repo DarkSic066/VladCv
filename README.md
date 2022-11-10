@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning web development with tools like HTML, CSS and Java Script.
 - 💞️ I'm looking to collaborate with companies and people who offer digital solution services and develop software.
 - 📫 How to reach me: Email - vlad_costea2000@yahoo.com
--                   My portfolio -  https://darksic066.github.io/VladCv/
+-                   
